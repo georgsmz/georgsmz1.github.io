@@ -1,10 +1,6 @@
 title: GeorgSMZ
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I also have a Blog-Website, where I release 
-  experience in coding and my generell life.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "georgsmz.com" # the base hostname & protocol for your site, e.g. http://example.com
+email: g.binus@gmx.net
+description: I also have a Blog-Website, where I release experience in coding and my generell life.
 twitter_username: jekyllrb
 github_username:  jekyll
 
