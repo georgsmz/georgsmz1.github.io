@@ -33,12 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
----
-layout: post
-title: Best Tools for Remote Teams
-bestTool: SomeTool
----
-<h2>The Best Tool is {{ page.bestTool }}</h2>
+{{site.title}} : This is my blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
