@@ -28,6 +28,8 @@ url: "http://georgsmz.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: georgsmz
 github_username:  georgsmz
 
+  {{content}}: Test123Test123...
+
 # Build settings
 theme: minima
 plugins:
